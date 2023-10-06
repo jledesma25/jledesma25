@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola a todos, soy <a href="[JotaDev](https://www.youtube.com/channel/UCR7QOqZxASBY1OdAPz25pzA)">Juan José</a> 👋👋</h1>
+<h1 align="center">Hola a todos, soy <a href="https://www.youtube.com/channel/UCR7QOqZxASBY1OdAPz25pzA">Juan José</a> 👋👋</h1>
 </div>
 <img src="https://drive.google.com/file/d/1Zh4pjwT0YDSw4jnlggYrRkZS4YcW-Bv4/view?usp=sharing">
 
