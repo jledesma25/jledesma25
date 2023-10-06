@@ -10,19 +10,35 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
+- 📲 Desarrollador de aplicaciones móviles
+- :man_technologist: Imparto lecciones sobre programación de aplicaciones en mi canal de YouTube
+- Invitame un café y charlamos sobre tus proyectos o dudas.
+- Práctico basquetbol,futbol y me gustan los videojuegos
+- Únete a nuestra comunidad
+Encuéntrame en Discord: Enlace a Discord
+Explora mis videos educativos en YouTube: Canal de YouTube
+Únete a nuestro grupo en WhatsApp: Grupo WhatsApp
+Únete a nuestro grupo en Telegram: Grupo Telegram
+
 - 📲 Mobile developer
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+34k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- Unete a la comunidad
+- ➡ 𝗨𝗻𝗲𝘁𝗲 𝗮 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: https://discord.gg/vuBaZ6fBpA
+➡ 𝗘𝗻𝗹𝗮𝗰𝗲 𝗱𝗶𝗿𝗲𝗰𝘁𝗼 𝗮 𝗻𝘂𝗲𝘀𝘁𝗿𝗮 𝗽𝗿𝗶𝗺𝗲𝗿 𝗱𝗶𝗿𝗲𝗰𝘁𝗼: https://www.youtube.com/watch?v=WVlVWY7RG4w
+➡ 𝗖𝗮𝗻𝗮𝗹 𝗬𝗼𝘂𝘁𝘂𝗯𝗲: https://www.youtube.com/channel/UCR7QOqZxASBY1OdAPz25pzA
+➡ 𝗚𝗿𝘂𝗽𝗼 W𝗵𝗮𝘀𝘁𝗮𝗽𝗽: https://chat.whatsapp.com/LLVrXOz2KYvCtwfmJtpODw
+➡ 𝗚𝗿𝘂𝗽𝗼 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺: https://t.me/+WeLRNGy5IfE1YTdh
+¡Nos vemos pronto! 🚀✨
 <br>
 
 ## Proyectos *bombitas*
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Jetpack Compose</h3>
 <div align="center">
 <a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
