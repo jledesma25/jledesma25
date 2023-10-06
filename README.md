@@ -15,7 +15,7 @@
 - :coffee: Invitame un café y charlamos sobre tus proyectos o dudas.
 - Práctico basquetbol,futbol y me gustan los videojuegos.
 - Únete a nuestra comunidad: 
-  ➡ 𝗨𝗻𝗲𝘁𝗲 𝗮 [![𝗗𝗶𝘀𝗰𝗼𝗿𝗱](https://discord.gg/vuBaZ6fBpA)
+  ➡ 𝗨𝗻𝗲𝘁𝗲 𝗮 [𝗗𝗶𝘀𝗰𝗼𝗿𝗱](https://discord.gg/vuBaZ6fBpA)
   ➡ 𝗘𝘅𝗽𝗹𝗼𝗿𝗮 𝗺𝗶𝘀 𝘃𝗶𝗱𝗲𝗼𝘀 𝗲𝗱𝘂𝗰𝗮𝘁𝗶𝘃𝗼𝘀 𝗲𝗻 𝗬𝗼𝘂𝗧𝘂𝗯𝗲: Canal de YouTube
   ➡ 𝗨𝗻𝗲𝘁𝗲 𝗮𝗹 𝗚𝗿𝘂𝗽𝗼 W𝗵𝗮𝘀𝘁𝗮𝗽𝗽: https://chat.whatsapp.com/LLVrXOz2KYvCtwfmJtpODw
   ➡ 𝗨𝗻𝗲𝘁𝗲 𝗮𝗹 𝗚𝗿𝘂𝗽𝗼 𝗮𝗹 𝗚𝗿𝘂𝗽𝗼 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺: https://t.me/+WeLRNGy5IfE1YTdh
