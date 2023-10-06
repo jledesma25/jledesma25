@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola a todos, soy <a href="https://youtube.com/channel/UCR7QOqZxASBY1OdAPz25pzA">Juan José</a> 👋👋</h1>
 </div>
-<img src="https://ibb.co/w7Rkx2t">
+<img src="https://github.com/jledesma25/jledesma25/blob/90212a6c239727aeb32e84023aa5914728810824/Group%2067%20(2).png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
